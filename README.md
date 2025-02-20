@@ -11,7 +11,7 @@ The dataset used in this project contains information about online transactions,
 - **Amount**: The amount of the transaction.
 - **isFraud**: A binary column indicating whether the transaction is fraudulent (1) or not (0).
 
-The dataset is stored in the `data/` folder as `onlinefraud.csv.zip`.
+You can download the dataset from [GitHub Releases](PASTE_LINK_HERE).
 
 
 ## Steps
