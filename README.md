@@ -1,9 +1,9 @@
+
 # Online Payment Fraud Detection
 
 ## Overview
 This project focuses on detecting fraudulent transactions in an online payment dataset using a **Decision Tree Classifier**. The goal is to analyze transaction data, preprocess it, train a machine learning model, and evaluate its performance in identifying fraudulent activities.
 
----
 
 ## Dataset
 The dataset used in this project contains information about online transactions, including:
@@ -13,7 +13,6 @@ The dataset used in this project contains information about online transactions,
 
 The dataset is stored in the `data/` folder as `onlinefraud.csv.zip`.
 
----
 
 ## Steps
 1. **Load and Explore the Dataset**:
@@ -37,7 +36,6 @@ The dataset is stored in the `data/` folder as `onlinefraud.csv.zip`.
 6. **Make Predictions**:
    - Use the trained model to predict whether a new transaction is fraudulent.
 
----
 
 ## Code Structure
 The project consists of the following files:
@@ -46,7 +44,6 @@ The project consists of the following files:
 - `requirements.txt`: A list of Python libraries required to run the project.
 - `data/onlinefraud.csv.zip`: The dataset used in the project.
 
----
 
 ## Requirements
 To run this project, you need the following Python libraries:
@@ -58,3 +55,5 @@ To run this project, you need the following Python libraries:
 Install the dependencies using:
 ```bash
 pip install -r requirements.txt
+# Online-Payment-Fraud-Detection
+ 2ceed12c88175539213f467694a05936765ec07c
