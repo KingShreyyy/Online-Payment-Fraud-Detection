@@ -11,7 +11,7 @@ The dataset used in this project contains information about online transactions,
 - **Amount**: The amount of the transaction.
 - **isFraud**: A binary column indicating whether the transaction is fraudulent (1) or not (0).
 
-You can download the dataset from [GitHub Releases](PASTE_LINK_HERE).
+You can download the dataset from [GitHub Releases](https://github.com/KingShreyyy/Online-Payment-Fraud-Detection/releases/download/v1.0/onlinefraud.csv.zip).
 
 
 ## Steps
